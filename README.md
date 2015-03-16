@@ -1,3 +1,3 @@
-# SplikMXQBO
+# Splik | La nueva forma de facturar y llevar tu contabilidad, fácil y rápido.
 
-a [Sails](http://sailsjs.org) application
+Una Aplicación [Sails](http://sailsjs.org) integrada con QuickBooks online.
